@@ -1,0 +1,3 @@
+172 6 98 1 1
+19 0
+mush_ghost,asciplius_pack,merlin_pack
